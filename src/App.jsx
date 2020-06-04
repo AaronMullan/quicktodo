@@ -1,5 +1,5 @@
 import React from 'react';
-import Todos from './todos.js'
+import Todos from './todos';
 import './App.css';
 
 function App() {
